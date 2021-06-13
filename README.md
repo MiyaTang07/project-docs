@@ -1,2 +1,2 @@
-# project-docs
-This is about something about my daily projects...
+# 说明
+该project是关于平时项目积累心得，不定期更新。
