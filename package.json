@@ -1,0 +1,22 @@
+{
+  "name": "project-docs",
+  "version": "1.0.0",
+  "description": "This is something about my project accumulation...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiyaTang07/project-docs.git"
+  },
+  "keywords": [
+    "document"
+  ],
+  "author": "Miya <1084428295@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiyaTang07/project-docs/issues"
+  },
+  "homepage": "https://github.com/MiyaTang07/project-docs#readme"
+}
